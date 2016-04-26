@@ -1,0 +1,13 @@
+{
+    "frameworks": {
+        "net452": {
+            "dependencies": {
+                "Microsoft.CodeDom.Providers.DotNetCompilerPlatform": "1.0.1",
+                "Microsoft.Net.Compilers": {
+                    "version": "1.1.1",
+                    "type": "build"
+                }
+            }
+        }
+    }
+}

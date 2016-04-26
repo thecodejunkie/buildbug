@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "MyProject": { "target": "project" }
+    },
+
+    "frameworks": {
+        "net452": {
+
+        }
+    }
+}
